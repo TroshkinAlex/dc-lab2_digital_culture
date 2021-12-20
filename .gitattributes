@@ -1,0 +1,5 @@
+D:/Download/Nado filter=lfs diff=lfs merge=lfs -text
+D:/Download/Nado.txt filter=lfs diff=lfs merge=lfs -text
+D:/Марина[[:space:]]фото/Разное/Клип/видео filter=lfs diff=lfs merge=lfs -text
+D:/Марина[[:space:]]фото/Разное/Клип/видео/*mp4 filter=lfs diff=lfs merge=lfs -text
+D:/Марина[[:space:]]фото/Разное/Клип/видео/*.mp4 filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,3 @@
+[submodule "Nado"]
+	path = Nado
+	url = https://github.com/TroshkinAlex/Nado
